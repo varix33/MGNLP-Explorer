@@ -3,4 +3,6 @@ Subject:	Parvenir à localiser et examiner la pléthore de jeux de données disp
 Nous souhaitons mettre à profit l’utilisation de vues chaînées (séquence de représentations visuelles interconnectées) mise en place par MGExplorer dans le cadre du développement d’une application de navigation de jeux de données appliquée au domaine du Traitement Automatique des Langues (TAL). Cette réalisation requiert donc une expertise dans le domaine du TAL en vue de répondre aux attentes dans ce domaine, il est également question de mettre l’expérience utilisateur au cœur du développement de cette application via des techniques issues du domaine de l'interaction homme-machine.
 
 
-<H3>Jeux de données (datasets_info+card.json) : https://we.tl/t-VN2Azszttq</H3>
+<H4>Jeux de données (datasets_info+card.json) : https://we.tl/t-VN2Azszttq</H4>
+
+<H4>Avancement du projet : https://docs.google.com/document/d/10WjHMD3QRBPHM1IDPhTqN15JlD5wdk_D5lNNeptsc-A/edit?usp=sharing</H4>
