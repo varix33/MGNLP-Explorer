@@ -6,3 +6,5 @@ Nous souhaitons mettre à profit l’utilisation de vues chaînées (séquence d
 <H4>Jeux de données (datasets_info+card.json) : https://we.tl/t-VN2Azszttq</H4>
 
 <H4>Avancement du projet : https://docs.google.com/document/d/10WjHMD3QRBPHM1IDPhTqN15JlD5wdk_D5lNNeptsc-A/edit?usp=sharing</H4>
+
+<H4>Requêtes utilisées : https://docs.google.com/document/d/12Yx7Up_LkGXOTsJNTOZUTQp3651H-LB_iERohlhLkds/edit?usp=sharing</H4>
